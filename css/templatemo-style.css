@@ -469,6 +469,10 @@ a:hover, a:active, a:focus {
   background: url('../images/education-img.jpg') no-repeat;
 }
 
+#education .education-img-cer img{
+  
+}
+
 #education .media-heading {
   margin-bottom: 0px;
 }
